@@ -11,7 +11,7 @@ Further analysis involved **examining the relationship between the difficulty an
 
 This comprehensive data offers valuable insights for the development of teaching materials that align with the needs of both teachers and students, contributing to future research.
 
-  **I already attached the dashboard in this repository**. In case reviewing online, you can accese via the link above.
+In case reviewing dashboard online, you can accese via the link above.
 
 
 ## 2. Suicide Rate of Thai population
@@ -22,6 +22,6 @@ This comprehensive data offers valuable insights for the development of teaching
 
   The Dashboard began with the regional statistic of suicide rate in Thailand between 2012 - 2021, adn the number of mal and femal suicide population on each region. The second page continued on the insightful information of the highest and lowest suicide rate ranking by province. Lastly, I attached a factor, age, that might have related to the suicidal rate.
 
-  **I already attached the dashboard in this repository (suicidal_dashbaord.zip)**. In case reviewing online, you can accese via the link above.
+  **I already attached the dashboard in this repository (suicidal_dashbaord.zip)**. In case reviewing dashboard online, you can accese via the link above.
 
 
