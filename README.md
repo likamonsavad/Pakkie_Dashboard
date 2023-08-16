@@ -12,6 +12,7 @@ Further analysis involved **examining the relationship between the difficulty an
 This comprehensive data offers valuable insights for the development of teaching materials that align with the needs of both teachers and students, contributing to future research.
 
 In case reviewing dashboard online, you can accese via the link above.
+![My Local Image1](https://github.com/likamonsavad/Pakkie_Dashboard/blob/4baeed075b00e5481bc5ec752f0e342a92d00dce/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99_EarthScience_dataset%20-%20Pivot_Demo_Page_1.jpg)
 
 
 ## 2. Suicide Rate of Thai population
@@ -24,4 +25,4 @@ In case reviewing dashboard online, you can accese via the link above.
 
   **I already attached the dashboard in this repository (suicidal_dashbaord.zip)**. In case reviewing dashboard online, you can accese via the link above.
 
-
+![My Local Image2](https://github.com/likamonsavad/Pakkie_Dashboard/blob/9b27a3b09ad3ce62366da4ba6e7edb84410df662/Screenshot%202566-08-16%20at%2018.27.35.png)
